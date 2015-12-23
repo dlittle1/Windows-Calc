@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.pdb
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Form1.resources
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Properties.Resources.resources
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe
+\\Mac\Home\Desktop\programs\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.pdb
